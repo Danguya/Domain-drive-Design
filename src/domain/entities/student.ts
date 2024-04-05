@@ -1,6 +1,5 @@
-import { randomUUID } from "crypto"
-import { Entity } from "../../core/entities/entity"
-import { UniqueEntityId } from "../../core/entities/unique-entity-id"
+import { Entity } from '@/core/entities/entity'
+import { UniqueEntityId } from '@/core/entities/unique-entity-id'
 
 interface StudentProps {
   name: string
