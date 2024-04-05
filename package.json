@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.12.4",
-    "typescript": "^5.4.4",
-    "vitest": "^1.4.0"
+    "@types/node": "20.12.4",
+    "typescript": "5.4.4",
+    "vitest": "1.4.0"
+  },
+  "dependencies": {
+    "dayjs": "1.11.10"
   }
 }
