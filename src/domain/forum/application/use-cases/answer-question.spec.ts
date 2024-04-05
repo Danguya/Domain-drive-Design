@@ -1,5 +1,5 @@
-import { AnswersRepository } from '../repositories/answer-repository'
 // import { Answer } from '../entities/answer'
+import { AnswersRepository } from '../repositories/answer-repository'
 import { AnswerQuestionUseCase } from './answer-question'
 
 const fakeAnswersRepository: AnswersRepository = {
